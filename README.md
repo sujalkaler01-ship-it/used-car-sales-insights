@@ -1,5 +1,4 @@
 # used-car-sales-insights
-# Used Car Sales Insights
 
 A beginner-friendly Python data visualization project that analyzes used car sales data and shows useful insights through simple charts.
 
